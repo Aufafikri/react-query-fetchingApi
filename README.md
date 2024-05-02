@@ -2,4 +2,4 @@
 
 testing colors
 
-<code style="color : aqua">Testing</code>
+<font color="red">TESTING KAWAN</font>
